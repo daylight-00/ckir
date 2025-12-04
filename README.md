@@ -1,11 +1,11 @@
 # Setup for Cyber Knowledge Information Rooms
 
 ### Essentials
-- [Microsoft Teams](https://statics.teams.cdn.office.net/production-windows-x86/lkg/MSTeamsSetup.exe)
 - [Visual Studio Code](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64)
-- [Tidal](https://tidal.com)
+- [Microsoft Teams](https://statics.teams.cdn.office.net/production-windows-x86/lkg/MSTeamsSetup.exe)
 - [Github](https://github.com/login)
 - [Notion](https://www.notion.so/login)
+- [Tidal](https://tidal.com)
 
 ---
 
