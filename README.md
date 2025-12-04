@@ -49,6 +49,6 @@ edge://settings/languages
 ```
 edge://settings/search
 ```
-
+---
 ### About
 This is a personal collection of essential links and tools for quick setup at Cyber Knowledge Information Rooms (CKIR) provided by the ROK Ministry of Defense. It includes download links for necessary software, frequently used websites, and browser settings.
