@@ -7,8 +7,6 @@
 - [Notion](https://www.notion.so/login)
 - [Tidal](https://tidal.com)
 
----
-
 ## Sites
 
 - [Tidal](https://tidal.com)
@@ -31,12 +29,26 @@
 - [Visual C++ Redistributable 2014 (x64)](https://aka.ms/vc14/vc_redist.x64.exe)
 
 ## Settings
+### Visual Studio Code
+```
+vscode:extension/ms-vscode.remote-server
+```
+```
+vscode:extension/tomoki1207.pdf
+```
 
-- [Popups](edge://settings/content/popups)
-- [Languages](edge://settings/languages)
-- [Search](edge://settings/search)
+### Edge
+```
+edge://settings/content/popups
+```
 
----
+```
+edge://settings/languages
+```
+
+```
+edge://settings/search
+```
 
 ### About
 This is a personal collection of essential links and tools for quick setup at Cyber Knowledge Information Rooms (CKIR) provided by the ROK Ministry of Defense. It includes download links for necessary software, frequently used websites, and browser settings.
