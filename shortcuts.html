@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Shortcuts</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 2em;
+            background: #f7f7fc;
+            color: #222;
+        }
+        h1 { color: #023e8a; }
+        h2 { color: #03071e; }
+        ul { margin-bottom: 2em; }
+        li { margin: 0.5em 0; }
+        a { color: #3267d6; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+        .quick-setup-btn {
+            display: inline-block;
+            padding: 12px 24px;
+            margin: 20px 0;
+            background: #023e8a;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+        .quick-setup-btn:hover {
+            background: #03045e;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <h1>Useful Links</h1>
+    
+    <button class="quick-setup-btn" onclick="quickSetup()">Quick Setup</button>
+    
+    <script>
+        function quickSetup() {
+            const urls = [
+                'edge://settings/content/popups',
+                'https://statics.teams.cdn.office.net/production-windows-x86/lkg/MSTeamsSetup.exe',
+                'https://code.visualstudio.com/sha/download?build=stable&os=win32-x64',
+                'https://login.tidal.com/authorize?client_id=49YxDN9a2aFV6RTG&redirect_uri=https%3A%2F%2Ftidal.com%2Flogin%2Fauth',
+                'https://github.com/login',
+                'https://www.linkedin.com/login',
+                'https://www.overleaf.com/login'
+            ];
+            urls.forEach(url => window.open(url, '_blank'));
+        }
+    </script>
+
+    <h2>Sites</h2>
+    <ul>
+        <li><a href="https://login.tidal.com/authorize?client_id=49YxDN9a2aFV6RTG&redirect_uri=https%3A%2F%2Ftidal.com%2Flogin%2Fauth" target="_blank">Tidal</a></li>
+        <li><a href="https://github.com/login" target="_blank">Github</a></li>
+        <li><a href="https://www.notion.so/login" target="_blank">Notion</a></li>
+        <li><a href="https://www.linkedin.com/login" target="_blank">Linkedin</a></li>
+        <li><a href="https://www.overleaf.com/login" target="_blank">Overleaf</a></li>
+        <li><a href="https://excel.cloud.microsoft/" target="_blank">Excel</a></li>
+        <li><a href="https://lcdd-snu.slack.com/" target="_blank">Slack-LCDD</a></li>
+        <li><a href="https://microbeforever2.quickconnect.to/" target="_blank">Microbeforever2</a></li>
+        <li><a href="http://webdisk.skir.kr/" target="_blank">Webdisk</a></li>
+    </ul>
+
+    <h2>Tools</h2>
+    <ul>
+        <li><a href="https://statics.teams.cdn.office.net/production-windows-x86/lkg/MSTeamsSetup.exe" target="_blank">Microsoft Teams</a></li>
+        <!-- <li><a href="https://statics.teams.cdn.office.net/production-windows-x64/enterprise/webview2/lkg/MSTeams-x64.msix" target="_blank">Microsoft Teams</a></li>
+        <li><a href="https://go.microsoft.com/fwlink/p/?LinkID=869426" target="_blank">Microsoft Teams</a></li> -->
+        <li><a href="https://code.visualstudio.com/sha/download?build=stable&os=win32-x64" target="_blank">Visual Studio Code</a></li>
+        <li><a href="https://slack.com/intl/ko-kr/downloads/instructions/windows?ddl=1&build=win64" target="_blank">Slack</a></li>
+        <li><a href="https://github.com/PowerShell/PowerShell/releases/latest" target="_blank">PowerShell</a></li>
+        <li><a href="https://aka.ms/vc14/vc_redist.x86.exe" target="_blank">Visual C++ Redistributable 2014 (x86)</a></li>
+        <li><a href="https://aka.ms/vc14/vc_redist.x64.exe" target="_blank">Visual C++ Redistributable 2014 (x64)</a></li>
+    </ul>
+
+    <h2>Settings</h2>
+    <ul>
+        <li><a href="edge://settings/content/popups" target="_blank">Popups</a></li>
+        <li><a href="edge://settings/languages" target="_blank">Languages</a></li>
+        <li><a href="edge://settings/search" target="_blank">Search</a></li>
+    </ul>
+</body>
+</html>
