@@ -15,7 +15,7 @@
 - [Linkedin](https://www.linkedin.com/login)
 - [Overleaf](https://www.overleaf.com/login)
 - [Excel](https://excel.cloud.microsoft/)
-- [Slack-LCDD](https://lcdd-snu.slack.com/)
+- [Slack-LCDD](https://lcdd-snu.slack.com/sign_in_with_password)
 - [Microbeforever2](https://microbeforever2.quickconnect.to/)
 - [Webdisk](http://webdisk.skir.kr/)
 
