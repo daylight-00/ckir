@@ -3,6 +3,8 @@
 ### Essentials
 - [VS Code](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64)
 - [MS Teams](https://statics.teams.cdn.office.net/production-windows-x86/lkg/MSTeamsSetup.exe)
+- [CKIR Unlimiter](https://github.com/ParkSnoopy/sgb_unlimiter/releases/download/v1.2.1/windows.zip)
+- [Visual C++ Redistributable v14 (x64)](https://aka.ms/vc14/vc_redist.x64.exe)
 - [Github](https://github.com/login)
 - [Notion](https://www.notion.so/login)
 - [Tidal](https://tidal.com)
@@ -16,7 +18,7 @@
 - [Overleaf](https://www.overleaf.com/login)
 - [Excel](https://excel.cloud.MS/)
 - Slack [ [LCDD](https://lcdd-snu.slack.com/sign_in_with_password) | [AIPD](https://aipdlab.slack.com/sign_in_with_password) ]
-- [Drive](https://drive.microbeforever2.synology.me/)
+- [Drive](https://drive.labontier.synology.me/)
 - [CKIR Webdisk](http://webdisk.skir.kr/)
 
 ## Softwares
@@ -31,7 +33,7 @@
 - [Windows Terminal](https://github.com/microsoft/terminal/releases/download/v1.23.12811.0/Microsoft.WindowsTerminal_1.23.12811.0_8wekyb3d8bbwe.msixbundle)
 - [Visual C++ Redistributable v14 (x86)](https://aka.ms/vc14/vc_redist.x86.exe)
 - [Visual C++ Redistributable v14 (x64)](https://aka.ms/vc14/vc_redist.x64.exe)
-- [CKIR Unlimiter](https://aka.ms/vc14/vc_redist.x64.exe)
+- [CKIR Unlimiter](https://github.com/ParkSnoopy/sgb_unlimiter/releases/download/v1.2.1/windows.zip)
 - [OpenVPN Connect](https://openvpn.net/downloads/openvpn-connect-v3-windows.msi)
 
 ## Settings
