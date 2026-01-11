@@ -27,12 +27,6 @@
 - [Miniconda](https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe)
 - [Office Apps](https://c2rsetup.officeapps.live.com/c2r/download.aspx?productReleaseID=O365ProPlusRetail&platform=Def&language=en-us)
 
-### Web Alternatives
-
-- [Excel](https://excel.cloud.ms/)
-- [Synology Drive](https://drive.labontier.synology.me/)
-- [CKIR Webdisk](http://webdisk.skir.kr/)
-
 ---
 
 ### About
