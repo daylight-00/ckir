@@ -1,0 +1,32 @@
+# Software List
+- Works
+    - [VS Code](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64)
+    - [Github](https://github.com/login)
+    - [Notion](https://www.notion.so/login)
+    - [Overleaf](https://www.overleaf.com/login)
+    - [Slack](https://slack.com/downloads/instructions/windows?ddl=1&build=win64-msix)
+- Utility
+    - [Tidal](https://tidal.com/)
+    - [Teams](https://statics.teams.cdn.office.net/production-windows-x86/lkg/MSTeamsSetup.exe)
+    - [Linkedin](https://www.linkedin.com/login)
+    - [CKIR Webdisk](http://webdisk.skir.kr/)
+- Local Development
+    - [Windows Terminal*](https://github.com/microsoft/terminal/releases/download/v1.23.13503.0/Microsoft.WindowsTerminal_1.23.13503.0_8wekyb3d8bbwe.msixbundle)
+    - [PowerShell*](https://github.com/PowerShell/PowerShell/releases/download/v7.5.4/PowerShell-7.5.4.msixbundle)
+    - [OpenVPN Connect](https://openvpn.net/downloads/openvpn-connect-v3-windows.msi)
+    - [Miniconda](https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe)
+    - [Bandizip](https://www.bandisoft.com/bandizip/dl.php)
+    - [Git*](https://github.com/git-for-windows/git/releases/download/v2.52.0.windows.1/Git-2.52.0-64-bit.exe)
+- In Case
+    - [SGB Unlimiter](https://github.com/ParkSnoopy/sgb_unlimiter/releases/download/v1.2.1/windows.zip)
+    - [Process Explorer](https://live.sysinternals.com/procexp64.exe)
+    - [Visual C++ Redistributable v14 (x86)](https://aka.ms/vc14/vc_redist.x86.exe)
+    - [Visual C++ Redistributable v14 (x64)](https://aka.ms/vc14/vc_redist.x64.exe)
+- After Ckirbreak
+    - [Synology Drive Client*](https://global.synologydownload.com/download/Utility/SynologyDriveClient/4.0.1-17885/Windows/Installer/x86_64/Synology%20Drive%20Client-4.0.1-17885-x64.exe)
+    - [KakaoTalk](https://app-pc.kakaocdn.net/talk/win32/x64/KakaoTalk_Setup.exe)
+    - [Office](https://c2rsetup.officeapps.live.com/c2r/download.aspx?productReleaseID=O365ProPlusRetail&platform=Def&language=en-us)
+- Web Alternatives
+    - [Synology Drive](https://drive.labontier.synology.me/)
+    - [Teams](https://teams.microsoft.com/)
+    - [Excel](https://excel.cloud.ms/)
