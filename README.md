@@ -31,4 +31,4 @@
 
 ### About
 
-This is a personal collection of essential links and tools for quick setup at Cyber Knowledge Information Roo(CKIR) provided by the ROK Ministry of Defense. It includes download links for necessary software, frequently used websites, and browser settings.
+This is a personal collection of essential links and tools for quick setup at Cyber Knowledge Information Room (CKIR) provided by the ROK Ministry of Defense. It includes download links for necessary software, frequently used websites, and browser settings.
