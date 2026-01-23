@@ -25,7 +25,7 @@
 - [Synology Drive Client*](https://global.synologydownload.com/download/Utility/SynologyDriveClient/4.0.1-17885/Windows/Installer/x86_64/Synology%20Drive%20Client-4.0.1-17885-x64.exe)
 - [KakaoTalk](https://app-pc.kakaocdn.net/talk/win32/x64/KakaoTalk_Setup.exe)
 - [Miniconda](https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe)
-- [Office Apps](https://c2rsetup.officeapps.live.com/c2r/download.aspx?productReleaseID=O365ProPlusRetail&platform=Def&language=en-us)
+- [Office Apps](https://c2rsetup.officeapps.live.com/c2r/download.aspx?productReleaseID=O365ProPlusRetail&platform=Def&language=en-us) [[config](Configuration.xml)]
 
 ---
 
