@@ -6,7 +6,7 @@
       <ExcludeApp ID="Access" />
       <ExcludeApp ID="Groove" />
       <ExcludeApp ID="Lync" />
-      <ExcludeApp ID="OneDrive" />
+      <!-- <ExcludeApp ID="OneDrive" /> -->
       <ExcludeApp ID="Publisher" />
       <!-- <ExcludeApp ID="Teams" /> -->
       <ExcludeApp ID="Bing" />
@@ -16,3 +16,4 @@
   <RemoveMSI />
   <Display Level="Full" AcceptEULA="TRUE" />
 </Configuration>
+
