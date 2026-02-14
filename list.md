@@ -11,7 +11,7 @@
     - [Linkedin](https://www.linkedin.com/login)
     - [CKIR Webdisk](http://webdisk.skir.kr/)
 - Local Development
-    - [Windows Terminal*](https://github.com/microsoft/terminal/releases/download/v1.23.13503.0/Microsoft.WindowsTerminal_1.23.13503.0_8wekyb3d8bbwe.msixbundle)
+    - [Windows Terminal*](https://github.com/microsoft/terminal/releases/download/v1.23.20211.0/Microsoft.WindowsTerminal_1.23.20211.0_8wekyb3d8bbwe.msixbundle)
     - [PowerShell*](https://github.com/PowerShell/PowerShell/releases/download/v7.5.4/PowerShell-7.5.4.msixbundle)
     - [OpenVPN Connect](https://openvpn.net/downloads/openvpn-connect-v3-windows.msi)
     - [Miniconda](https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe)
@@ -22,8 +22,9 @@
     - [Process Explorer](https://live.sysinternals.com/procexp64.exe)
     - [Visual C++ Redistributable v14 (x86)](https://aka.ms/vc14/vc_redist.x86.exe)
     - [Visual C++ Redistributable v14 (x64)](https://aka.ms/vc14/vc_redist.x64.exe)
+    - [Aptos Fonts](https://download.microsoft.com/download/8/6/0/860a94fa-7feb-44ef-ac79-c072d9113d69/Microsoft%20Aptos%20Fonts.zip)
 - After Ckirbreak
-    - [Synology Drive Client*](https://global.synologydownload.com/download/Utility/SynologyDriveClient/4.0.1-17885/Windows/Installer/x86_64/Synology%20Drive%20Client-4.0.1-17885-x64.exe)
+    - [Synology Drive Client*](https://global.synologydownload.com/download/Utility/SynologyDriveClient/4.0.2-17889/Windows/Installer/x86_64/Synology%20Drive%20Client-4.0.2-17889-x64.exe)
     - [KakaoTalk](https://app-pc.kakaocdn.net/talk/win32/x64/KakaoTalk_Setup.exe)
     - [Office](https://c2rsetup.officeapps.live.com/c2r/download.aspx?productReleaseID=O365ProPlusRetail&platform=Def&language=en-us)
 - Web Alternatives

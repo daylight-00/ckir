@@ -1,5 +1,6 @@
 # Setup for Cyber Knowledge Information Rooms
 
+
 ### Essentials
 
 - [VS Code](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64)
@@ -14,18 +15,20 @@
 - [OpenVPN Connect](https://openvpn.net/downloads/openvpn-connect-v3-windows.msi) [[config](https://www.notion.so/daylit/SSH-renew-2c4082d552fe807c95ede2558be8e65e)]
 - [Bandizip](https://www.bandisoft.com/bandizip/dl.php)
 - [PowerShell*](https://github.com/PowerShell/PowerShell/releases/download/v7.5.4/PowerShell-7.5.4.msixbundle)
-- [Windows Terminal*](https://github.com/microsoft/terminal/releases/download/v1.23.12811.0/Microsoft.WindowsTerminal_1.23.12811.0_8wekyb3d8bbwe.msixbundle)
-- [Slack](https://slack.com/downloads/instructions/windows?ddl=1&build=win64-msix) [[LCDD](https://lcdd-snu.slack.com/sign_in_with_password)|[AIPD](https://aipdlab.slack.com/sign_in_with_password)]
+- [Windows Terminal*](https://github.com/microsoft/terminal/releases/download/v1.23.20211.0/Microsoft.WindowsTerminal_1.23.20211.0_8wekyb3d8bbwe.msixbundle)
+- [Slack](https://slack.com/downloads/instructions/windows?ddl=1&build=win64-msix) [[login](https://lcdd-snu.slack.com/sign_in_with_password)]
 - [Linkedin](https://www.linkedin.com/login)
 - [Overleaf](https://www.overleaf.com/login)
 
 ### Advanced
 
 - [Ckirbreak](ckirbreak.md)
-- [Synology Drive Client*](https://global.synologydownload.com/download/Utility/SynologyDriveClient/4.0.1-17885/Windows/Installer/x86_64/Synology%20Drive%20Client-4.0.1-17885-x64.exe)
+- [Synology Drive Client*](https://global.synologydownload.com/download/Utility/SynologyDriveClient/4.0.2-17889/Windows/Installer/x86_64/Synology%20Drive%20Client-4.0.2-17889-x64.exe)
 - [KakaoTalk](https://app-pc.kakaocdn.net/talk/win32/x64/KakaoTalk_Setup.exe)
-- [Miniconda](https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe)
 - [Office Apps](https://c2rsetup.officeapps.live.com/c2r/download.aspx?productReleaseID=O365ProPlusRetail&platform=Def&language=en-us) [[config](Configuration.xml)]
+- [Miniconda](https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe)
+
+[full occupation](occupation.md)
 
 ---
 
